@@ -1,0 +1,10 @@
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/bin/Debug/netcoreapp2.0/WebApplication2.deps.json
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/bin/Debug/netcoreapp2.0/WebApplication2.runtimeconfig.json
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/bin/Debug/netcoreapp2.0/WebApplication2.runtimeconfig.dev.json
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/bin/Debug/netcoreapp2.0/WebApplication2.dll
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/bin/Debug/netcoreapp2.0/WebApplication2.pdb
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/Debug/netcoreapp2.0/WebApplication2.csproj.CoreCompileInputs.cache
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/Debug/netcoreapp2.0/WebApplication2.AssemblyInfoInputs.cache
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/Debug/netcoreapp2.0/WebApplication2.AssemblyInfo.cs
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/Debug/netcoreapp2.0/WebApplication2.dll
+/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/Debug/netcoreapp2.0/WebApplication2.pdb
