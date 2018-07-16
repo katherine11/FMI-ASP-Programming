@@ -1,0 +1,94 @@
+﻿<OnlineCosmeticsShop>
+    <Name>Ейвън</Name>
+    <Employees>
+        <Employee employeeId="employee1" gender="Мъж">
+            <EmployeeName>Илиян</EmployeeName>
+            <Address id="address1">
+                <Country>България</Country>
+                <City>София</City>
+                <Street>бул.България</Street>
+                <Number>34</Number>
+            </Address>
+            <Age>35</Age>
+            <Position>Мениджър "Продажби"</Position>
+            <Email>ilian@avon.bg</Email>
+            <Salary>3000</Salary>
+            <Orders orderId="order1" employeeId="employee1" limitPrice="500">
+                <Order>
+                    <EmployeeName>
+                        Илиян
+                    </EmployeeName>
+                    <Catalog campaignNumber="campaign1" year="2018">
+                        <StartDate>2018-01-01</StartDate>
+                        <EndDate>2018-01-31</EndDate>
+                    </Catalog>
+
+                    <Customers>
+                        <Customer customerId="customer1">
+                            <CustomerName>Мадлен</CustomerName>
+                            <Products>
+                                <Product>
+                                    <Code>12345</Code>
+                                    <CosmeticArea>Парфюми</CosmeticArea>
+                                    <CatalogPage>20</CatalogPage>
+                                    <Description>Little Black Dress</Description>
+                                    <Price>21,99лв</Price>
+                                    <Count>1</Count>
+                                </Product>
+                            </Products>
+                        </Customer>
+                    </Customers>
+                    <TotalPrice>21,99лв</TotalPrice>
+                </Order>
+            </Orders>
+        </Employee>
+
+        <Employee employeeId="employee2" gender="Жена">
+            <EmployeeName>Станислава</EmployeeName>
+            <Address id="address2">
+                <Country>България</Country>
+                <City>Враца</City>
+                <Street>бул.Гео Милев</Street>
+                <Number>84</Number>
+            </Address>
+            <Age>26</Age>
+            <Position>Зонален мениджър</Position>
+            <Email>stanislava@avon.bg</Email>
+            <Salary>2500</Salary>
+            <Orders employeeId="employee1" orderId="order2" limitPrice="300">
+                <Order>
+
+                    <EmployeeName>
+                        Станислава
+                    </EmployeeName>
+                    <Catalog campaignNumber="campaign1" year="2018">
+                        <StartDate>2018-01-01</StartDate>
+                        <EndDate>2018-01-31</EndDate>
+                    </Catalog>
+
+                    <Customers>
+                        <Customer customerId="customer2">
+                            <CustomerName>Кристина</CustomerName>
+                            <Products>
+                                <Product>
+                                    <Code>12275</Code>
+                                    <CosmeticArea>Кремове</CosmeticArea>
+                                    <CatalogPage>120</CatalogPage>
+                                    <Description>Крем за лице Anew</Description>
+                                    <Price>15,99лв</Price>
+                                    <Count>2</Count>
+                                </Product>
+                            </Products>
+                        </Customer>
+                    </Customers>
+                    <TotalPrice>31,98лв</TotalPrice>
+                </Order>
+            </Orders>
+        </Employee>
+    </Employees>
+
+    <Contacts>
+        <Email>contacts@avon.bg</Email>
+        <Phone>123 124 125</Phone>
+    </Contacts>
+</OnlineCosmeticsShop>

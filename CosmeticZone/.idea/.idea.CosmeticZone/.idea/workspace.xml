@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33835412-ef5e-4c01-896d-0bee5ed5ec4d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="products@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="products@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="testdb: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="products@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="testdb: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+                <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
+                <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
+                <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Products_1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/github/FMI-ASP-Programming-master/WebApplication2/WebApplication2.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CosmeticZone" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CosmeticZone/CosmeticZone.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33835412-ef5e-4c01-896d-0bee5ed5ec4d" name="Default" comment="" />
+      <created>1529702875175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529702875175</updated>
+      <workItem from="1529702876514" duration="1228000" />
+      <workItem from="1529705975540" duration="2540000" />
+      <workItem from="1530184593372" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3894000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1757085" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.3291592" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3291592" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
+            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
+            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1779469d-58a8-4675-a787-09c0a8c2293d/database/testdb/schema/dbo/table/catalogs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
+            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
