@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33835412-ef5e-4c01-896d-0bee5ed5ec4d" name="Default" comment="" />
+    <list default="true" id="33835412-ef5e-4c01-896d-0bee5ed5ec4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources/1779469d-58a8-4675-a787-09c0a8c2293d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources/1779469d-58a8-4675-a787-09c0a8c2293d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources/1779469d-58a8-4675-a787-09c0a8c2293d/storage_v2/_src_/database/testdb.kHS3yw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/dataSources/1779469d-58a8-4675-a787-09c0a8c2293d/storage_v2/_src_/database/testdb.kHS3yw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmeticZone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/CosmeticZone.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/CosmeticZone.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/bin/Debug/netcoreapp2.1/CosmeticZone.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/CosmeticZone.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/CosmeticZone.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmeticZone/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CosmeticZone/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/obj/WebApplication2.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication2/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +75,7 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="products@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="testdb: database" type="bdf80c8a:MssqlImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="products@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="testdb: database" type="bdf80c8a:MssqlImplModel$Database" />
-        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+        <item name="onlineshop: database" type="bdf80c8a:MssqlImplModel$Database" />
       </path>
     </expand>
     <select />
@@ -44,38 +85,38 @@
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="1380">
               <caret line="92" selection-start-line="92" selection-end-line="92" />
               <folding>
-                <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+                <marker date="1532981785240" expanded="true" signature="0:5302" ph="@*...*@" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="360">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
-                <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
-                <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+                <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -84,43 +125,61 @@
       <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="375">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding>
-                <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
-                <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
-                <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+                <marker date="1532981785236" expanded="false" signature="6:181" ph="..." />
+                <marker date="1532981785236" expanded="true" signature="217:1095" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="264:1093" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="307:436" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="474:594" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="634:738" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="778:825" ph="{...}" />
+                <marker date="1532981785236" expanded="true" signature="956:1087" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Products_1.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Products_1.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            <state relative-caret-position="746">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="n#Employee#1;n#Employees#0;n#OnlineCosmeticsShop#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CosmeticZone/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql" />
         <option value="$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml" />
       </list>
     </option>
@@ -140,6 +199,7 @@
     <option name="width" value="1890" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,6 +212,64 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Analyzers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Packages" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CosmeticZone (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CosmeticZone" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="XML" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -166,7 +284,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/github/FMI-ASP-Programming-master/WebApplication2/WebApplication2.sln" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebApplication2/WebApplication2.csproj" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,11 +332,14 @@
       <workItem from="1529702876514" duration="1228000" />
       <workItem from="1529705975540" duration="2540000" />
       <workItem from="1530184593372" duration="126000" />
+      <workItem from="1532981964903" duration="252000" />
+      <workItem from="1533366778487" duration="9693000" />
+      <workItem from="1533384877012" duration="3961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3894000" />
+    <option name="totallyTimeSpent" value="17800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,7 +351,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -238,25 +360,25 @@
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1757085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14461046" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32924226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19517544" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.3291592" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3291592" />
+      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -273,33 +395,33 @@
         <state relative-caret-position="1380">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
-            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+            <marker date="1532981785240" expanded="true" signature="0:5302" ph="@*...*@" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding>
-            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
           </folding>
         </state>
       </provider>
@@ -309,15 +431,193 @@
         <state relative-caret-position="150">
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
-            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
-            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
+            <marker date="1532981785236" expanded="false" signature="6:181" ph="..." />
+            <marker date="1532981785236" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="956:1087" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1532981785236" expanded="true" signature="44:210" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="78:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="n#Employee#1;n#Employees#0;n#OnlineCosmeticsShop#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1532981785240" expanded="true" signature="0:5302" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1532981785236" expanded="false" signature="6:181" ph="..." />
+            <marker date="1532981785236" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="956:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+          <folding>
+            <element signature="n#Employee#1;n#Employees#0;n#OnlineCosmeticsShop#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -332,9 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -343,23 +640,23 @@
         <state relative-caret-position="315">
           <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
-            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
           </folding>
         </state>
       </provider>
@@ -368,18 +665,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
-            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="das://1779469d-58a8-4675-a787-09c0a8c2293d/database/testdb/schema/dbo/table/catalogs">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -388,68 +678,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CosmeticZone/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <marker date="1529706867240" expanded="false" signature="6:181" ph="..." />
-            <marker date="1529706867240" expanded="true" signature="217:1095" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="264:1093" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="307:436" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="474:594" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="634:738" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="778:825" ph="{...}" />
-            <marker date="1529706867240" expanded="true" signature="956:1087" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="1380">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
-            <marker date="1529704032216" expanded="true" signature="0:5302" ph="@*...*@" />
+            <marker date="1532981785240" expanded="true" signature="0:5302" ph="@*...*@" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CosmeticZone/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding>
-            <marker date="1529702867965" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
-            <marker date="1529702867965" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="16:3372" ph="&lt;html.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="23:846" ph="&lt;head.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="194:384" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="389:838" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="847:3364" ph="&lt;body.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="858:1922" ph="&lt;nav.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="919:1911" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="955:1472" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="999:1343" ph="&lt;button.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1485:1896" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1540:1877" ph="&lt;ul.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="1974:2139" ph="&lt;div.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2056:2128" ph="&lt;footer.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2145:2399" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2404:3308" ph="&lt;environment.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2448:2796" ph="&lt;script.../&gt;" />
+            <marker date="1532981785240" expanded="true" signature="2805:3214" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1779469d-58a8-4675-a787-09c0a8c2293d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1532981785236" expanded="true" signature="44:210" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="78:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <marker date="1532981785236" expanded="false" signature="6:181" ph="..." />
+            <marker date="1532981785236" expanded="true" signature="217:1095" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="264:1093" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="307:436" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="474:594" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="634:738" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1532981785236" expanded="true" signature="956:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmeticZone/XML/Products_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="n#Employee#1;n#Employees#0;n#OnlineCosmeticsShop#0;n#!!top" />
           </folding>
         </state>
       </provider>

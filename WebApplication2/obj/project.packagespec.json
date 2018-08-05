@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/WebApplication2.csproj",
+    "projectUniqueName": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/WebApplication2/WebApplication2.csproj",
     "projectName": "WebApplication2",
-    "projectPath": "/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/WebApplication2.csproj",
-    "outputPath": "/home/ksimeonova/Documents/fmi/3.2/asp/tests/TestApp/WebApplication2/obj/",
+    "projectPath": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/WebApplication2/WebApplication2.csproj",
+    "outputPath": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/WebApplication2/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"

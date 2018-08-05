@@ -1,0 +1,23 @@
+﻿@model ViewComponent
+
+<div>
+    <strong>
+        XML файл: <i>@ViewBag.XMLFileName</i>
+    </strong>
+</div>
+<div>
+    
+    @* //TODO : add color for the valid and invalid results: (green and red) *@
+    <strong>Валиден:
+
+        @if (ViewBag.ValidXML)
+        {
+            <i>ДА</i>
+        }
+        else
+        {
+            <i>НЕ</i>
+        }
+    </strong>
+</div>
+

@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ksimeonova\\RiderProjects\\CosmeticZone\\CosmeticZone\\CosmeticZone.csproj",
+    "projectUniqueName": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/CosmeticZone/CosmeticZone/CosmeticZone.csproj",
     "projectName": "CosmeticZone",
-    "projectPath": "C:\\Users\\ksimeonova\\RiderProjects\\CosmeticZone\\CosmeticZone\\CosmeticZone.csproj",
-    "outputPath": "C:\\Users\\ksimeonova\\RiderProjects\\CosmeticZone\\CosmeticZone\\obj\\",
+    "projectPath": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/CosmeticZone/CosmeticZone/CosmeticZone.csproj",
+    "outputPath": "/home/ksimeonova/Documents/github/FMI-ASP-Programming/CosmeticZone/CosmeticZone/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
@@ -29,8 +29,12 @@
         "Microsoft.AspNetCore.App": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.1.0, )",
+          "version": "[2.1.1, )",
           "autoReferenced": true
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.1.1, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",

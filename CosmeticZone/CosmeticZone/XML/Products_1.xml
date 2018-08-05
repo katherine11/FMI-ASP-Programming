@@ -11,41 +11,12 @@
             </Address>
             <Age>35</Age>
             <Position>Мениджър "Продажби"</Position>
-            <Email>ilian@avon.bg</Email>
             <Salary>3000</Salary>
-            <Orders orderId="order1" employeeId="employee1" limitPrice="500">
-                <Order>
-                    <EmployeeName>
-                        Илиян
-                    </EmployeeName>
-                    <Catalog campaignNumber="campaign1" year="2018">
-                        <StartDate>2018-01-01</StartDate>
-                        <EndDate>2018-01-31</EndDate>
-                    </Catalog>
-
-                    <Customers>
-                        <Customer customerId="customer1">
-                            <CustomerName>Мадлен</CustomerName>
-                            <Products>
-                                <Product>
-                                    <Code>12345</Code>
-                                    <CosmeticArea>Парфюми</CosmeticArea>
-                                    <CatalogPage>20</CatalogPage>
-                                    <Description>Little Black Dress</Description>
-                                    <Price>21,99лв</Price>
-                                    <Count>1</Count>
-                                </Product>
-                            </Products>
-                        </Customer>
-                    </Customers>
-                    <TotalPrice>21,99лв</TotalPrice>
-                </Order>
-            </Orders>
+            <Email>ilian@avon.bg</Email>
         </Employee>
-
         <Employee employeeId="employee2" gender="Жена">
             <EmployeeName>Станислава</EmployeeName>
-            <Address id="address2">
+            <Address addressId="address2">
                 <Country>България</Country>
                 <City>Враца</City>
                 <Street>бул.Гео Милев</Street>
@@ -54,41 +25,37 @@
             <Age>26</Age>
             <Position>Зонален мениджър</Position>
             <Email>stanislava@avon.bg</Email>
+            <Telephone>0882532756</Telephone>
             <Salary>2500</Salary>
-            <Orders employeeId="employee1" orderId="order2" limitPrice="300">
-                <Order>
-
-                    <EmployeeName>
-                        Станислава
-                    </EmployeeName>
-                    <Catalog campaignNumber="campaign1" year="2018">
-                        <StartDate>2018-01-01</StartDate>
-                        <EndDate>2018-01-31</EndDate>
-                    </Catalog>
-
-                    <Customers>
-                        <Customer customerId="customer2">
-                            <CustomerName>Кристина</CustomerName>
-                            <Products>
-                                <Product>
-                                    <Code>12275</Code>
-                                    <CosmeticArea>Кремове</CosmeticArea>
-                                    <CatalogPage>120</CatalogPage>
-                                    <Description>Крем за лице Anew</Description>
-                                    <Price>15,99лв</Price>
-                                    <Count>2</Count>
-                                </Product>
-                            </Products>
-                        </Customer>
-                    </Customers>
-                    <TotalPrice>31,98лв</TotalPrice>
-                </Order>
-            </Orders>
         </Employee>
     </Employees>
-
+    <Orders orderId="order1" employeeId="employee1" limitPrice="500">
+        <Order>
+            <Products>
+                <Product productId="product1" customerName="Пешо" count="2">
+                    <Code>12345</Code>
+                    <Category>Парфюми</Category>
+                    <Description>Little Black Dress</Description>
+                    <Price>21,99лв</Price>
+                </Product>
+            </Products>
+            <TotalPrice>21,99лв</TotalPrice>
+        </Order>
+        <Order>
+            <Products>
+                <Product productId="product2" customerName="Николета" count="3">
+                    <Code>12275</Code>
+                    <Category>Кремове</Category>
+                    <Description>Крем за лице Anew</Description>
+                    <Price>15,99лв</Price>
+                </Product>
+            </Products>
+            <TotalPrice>31,98лв</TotalPrice>
+        </Order>
+    </Orders>
     <Contacts>
         <Email>contacts@avon.bg</Email>
         <Phone>123 124 125</Phone>
+        <Fax>555 444 333</Fax>
     </Contacts>
 </OnlineCosmeticsShop>
