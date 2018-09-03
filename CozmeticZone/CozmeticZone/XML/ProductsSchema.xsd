@@ -1,0 +1,92 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="OnlineCosmeticsShop">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element type="xs:string" name="Name"/>
+                <xs:element name="Employees">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Employee" maxOccurs="unbounded" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:choice maxOccurs="unbounded" minOccurs="0">
+                                        <xs:element type="xs:string" name="EmployeeName"/>
+                                        <xs:element name="Address">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element type="xs:string" name="Country"/>
+                                                    <xs:element type="xs:string" name="City"/>
+                                                    <xs:element type="xs:string" name="Street"/>
+                                                    <xs:element type="xs:short" name="Number"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element type="xs:short" name="Age"/>
+                                        <xs:element type="xs:string" name="Position"/>
+                                        <xs:element type="xs:short" name="Salary"/>
+                                        <xs:element type="xs:string" name="Email"/>
+                                        <xs:element type="xs:int" name="Telephone"/>
+                                    </xs:choice>
+                                    <xs:attribute type="xs:byte" name="employeeId" use="optional"/>
+                                    <xs:attribute type="xs:string" name="gender" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Orders">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Order" maxOccurs="unbounded" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Products">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Product">
+                                                        <xs:complexType>
+                                                            <xs:sequence>
+                                                                <xs:element type="xs:short" name="Code"/>
+                                                                <xs:element type="xs:string" name="Category"/>
+                                                                <xs:element type="xs:string" name="Description"/>
+                                                                <xs:element type="xs:float" name="Price"/>
+                                                            </xs:sequence>
+                                                            <xs:attribute type="xs:byte" name="productId" use="optional"/>
+                                                            <xs:attribute type="xs:byte" name="productOrderId" use="optional"/>
+                                                            <xs:attribute type="xs:short" name="count" use="optional"/>
+                                                            <xs:attribute type="xs:string" name="customerName" use="optional"/>
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element type="xs:float" name="TotalPrice"/>
+                                    </xs:sequence>
+                                    <xs:attribute type="xs:byte" name="employeeId" use="optional"/>
+                                    <xs:attribute type="xs:byte" name="orderId" use="optional"/>
+                                    <xs:attribute type="xs:short" name="limitPrice" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Contacts">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Contact">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:string" name="Email"/>
+                                        <xs:element type="xs:string" name="Phone"/>
+                                        <xs:element type="xs:int" name="Fax"/>
+                                    </xs:sequence>
+                                    <xs:attribute type="xs:byte" name="contactId"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="shopId"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

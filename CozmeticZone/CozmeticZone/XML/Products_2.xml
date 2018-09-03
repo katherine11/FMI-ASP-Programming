@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<OnlineCosmeticsShop>
+    <Name>Ейвън</Name>
+    <Employees>
+        <Employee gender="Мъж" employeeId="1">
+            <EmployeeName>Илиян</EmployeeName>
+            <Address addressId="1">
+                <Country>България</Country>
+                <City>София</City>
+                <Street>бул.България</Street>
+                <Number>abc</Number>
+            </Address>
+            <Age>35</Age>
+            <Position>Мениджър "Продажби"</Position>
+            <Salary>DSDHSKF</Salary>
+            <Email>ilian@avon.bg</Email>
+        </Employee>
+        <Employee gender="Жена" employeeId="2">
+            <EmployeeName>Станислава</EmployeeName>
+            <Address addressId="2">
+                <Country>България</Country>
+                <City>Враца</City>
+                <Street>бул.Гео Милев</Street>
+                <Number>84</Number>
+            </Address>
+            <Age>26</Age>
+            <Position>Зонален мениджър</Position>
+            <Email>stanislava@avon.bg</Email>
+            <Telephone>0882532756</Telephone>
+            <Salary>2500</Salary>
+        </Employee>
+    </Employees>
+    <Orders>
+        <Order employeeId="1" limitPrice="500" orderId="1">
+            <Products>
+                <Product count="2" customerName="Пешо" productId="1">
+                    <Code>12345</Code>
+                    <Category>Парфюми</Category>
+                    <Description>Little Black Dress</Description>
+                    <Price>21.99</Price>
+                </Product>
+            </Products>
+            <TotalPrice>21.99</TotalPrice>
+        </Order>
+        <Order employeeId="2" limitPrice="500" orderId="2">
+            <Products>
+                <Product count="3" customerName="Николета" productId="2">
+                    <Code>12275</Code>
+                    <Category>Кремове</Category>
+                    <Description>Крем за лице Anew</Description>
+                    <Price>15.99</Price>
+                </Product>
+            </Products>
+            <TotalPrice>31.98</TotalPrice>
+        </Order>
+    </Orders>
+    <Contacts>
+        <Contact>
+            <Email>contacts@avon.bg</Email>
+            <Phone>123 124 125</Phone>
+            <Fax>555444333</Fax>
+        </Contact>
+    </Contacts>
+</OnlineCosmeticsShop>

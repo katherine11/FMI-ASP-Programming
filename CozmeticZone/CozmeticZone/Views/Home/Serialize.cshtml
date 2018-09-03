@@ -1,0 +1,40 @@
+﻿@using System.Runtime.InteropServices.ComTypes
+@model ViewComponent
+
+<div>
+    <strong>
+
+        @if (ViewBag.Success != null)
+        {
+            if (ViewBag.Success)
+            {
+                <i style="color: darkred">Възникна проблем при добавянето на информацията в базата от данни.</i>
+            }
+        }
+
+        @if (ViewBag.IncorrectFormat != null)
+        {
+             <i style="color: darkred">Възникна проблем във форматирането на информацията.</i>
+        }
+
+        @if (ViewBag.FilesInfo != null)
+        {
+            @:<h4>Списък с файловете и тяхната валидност</h4>
+            foreach (var file in ViewBag.FilesInfo)
+            {
+                @:<div>
+                @file.Key;
+                
+                if (file.Value)
+                {
+                    @:<i style="color: forestgreen"> ДА </i>
+                }
+                else
+                {
+                    @:<i style="color: red"> НЕ </i>
+                }
+                @:</div>
+            }
+        }
+    </strong >
+</div>

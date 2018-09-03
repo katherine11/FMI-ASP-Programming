@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    
+    <div style="">
+        <h4 style="text-align: center">ASP .NET страница, предоставяща съзможност за валидация на XML файлове и добавяне на нови</h4>
+    </div>
+    
+    <div style="margin-top: 40px" class="row">
+        <div class="col-xs-6">
+            <a asp-controller="Home" asp-action="Serialize">
+                <button class="btn btn-primary btn-block">Валидирай XML файловете</button>
+            </a>
+        </div>
+        <div class="col-xs-6">
+            <a asp-controller="Shop" asp-action="Create">
+                <button class="btn btn-block">Създай валиден XML файл</button>
+            </a>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OnlineCosmeticsShop shopId="1">
+  <Name>Avon</Name>
+  <Employees>
+    <Employee gender="тетстд" employeeId="1">
+      <EmployeeName>Тест </EmployeeName>
+      <Address>
+        <Country>България</Country>
+        <City>dd</City>
+        <Street>hjkhkj</Street>
+        <Number>12</Number>
+      </Address>
+      <Age>23</Age>
+      <Position>dsd</Position>
+      <Salary>1500</Salary>
+      <Email>йкдв</Email>
+      <Telephone>32313</Telephone>
+    </Employee>
+  </Employees>
+  <Orders>
+    <Order employeeId="1" orderId="1" limitPrice="0">
+      <Products>
+        <Product productOrderId="0" productId="0" count="3" customerName="sfsf">
+          <Code>1233</Code>
+          <Category>врйвй</Category>
+          <Description>дйввхеве</Description>
+          <Price>32</Price>
+        </Product>
+      </Products>
+      <TotalPrice>0</TotalPrice>
+    </Order>
+  </Orders>
+  <Contacts>
+    <Contact contactId="1">
+      <Email>simeon.simeonov1503@abv.bg</Email>
+      <Phone>944343498</Phone>
+      <Fax>12345</Fax>
+    </Contact>
+  </Contacts>
+</OnlineCosmeticsShop>

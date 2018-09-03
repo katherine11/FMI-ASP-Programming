@@ -1,0 +1,40 @@
+﻿@model ViewComponent
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+
+    <strong>
+        
+        @if (ViewBag.IncorrectFormat != null && ViewBag.IncorrectFormat)
+        {
+            <i style="color: darkred">Възникна проблем при форматирането на полетата от формата.</i>
+        }
+
+        @if (ViewBag.FileExists != null && ViewBag.FileExists)
+        {
+            <i style="color: darkred">XML Файлът вече съществува.</i>
+        }
+
+        @if (ViewBag.ValidXML != null)
+        {
+            if (ViewBag.ValidXML)
+            {
+                <i style="color: forestgreen">XML файлът беше успешно създаден.</i>
+            }
+            else
+            {
+                <i style="color: red">XML файлът не е валиден.</i>
+            }
+        }
+
+    </strong>
+
+</div>
+</body>
+</html>
